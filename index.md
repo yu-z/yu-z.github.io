@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-2018/12 ~ present  
+2018/11 ~ present  
 
 **Agricultural Genomics Institute at Shenzhen**, *Associate professor*
 
