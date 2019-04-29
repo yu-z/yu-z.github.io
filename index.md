@@ -1,5 +1,8 @@
 ###ABOUT ME
-####2016/07 ~ Present
+
+####2018/12 ~ present
+Agricultural Genomics Institute at Shenzhen, *Associate professor*
+####2016/07 ~ 2018/07
 Southern University of Science and Technology, *Postdoctoral fellow*
 ####2010/09 ~ 2016/06
 Huazhong Agricultural University, *Ph.D, Olericulture*
@@ -11,16 +14,20 @@ University of Delaware, *Visiting student*
 Guizhou Academy of Tobacco Science, *Visiting student*
 ####2006/09 ~ 2010/09
 Huazhong Agricultural University, *B.S, Aquatic Science and Technology*
-
 Huazhong University of Science and Technology, *B.A, English*
 
 
 ###PUBLICATIONS
-**Zhang Y**, Xia R, Kuang H, Meyers BC. The Diversification of plant NBS-LRR genes directs the evolution of microRNAs that target them. Mol Biol Evol. 2016 Aug 10. pii: msw154
+
+**Zhang Y**, Harris J, Liu Q, Liu W, Ausin I, Long Y, Xiao L, Feng L, Chen X, Chen X, Zhan L, Feng S, Li J, Wang F, Zhai J, Jacobsen S. Large-scale comparative epigenomics reveals hierarchical regulation of non-CG methylation in Arabidopsis. PNAS. 2018, 115(5):E1069-E1074 
+
+**Zhang Y**, Xia R, Kuang H, Meyers BC. The Diversification of plant NBS-LRR genes directs the evolution of microRNAs that target them. Mol Biol Evol. 2016, 33(10):2692-2705
 
 **Zhang Y**, Yan C, Kuang H. GC content fluctuation around plant small RNA-generating sites. FEBS Lett. 2014, 588(5): 764–769
 
 Luo S, **Zhang Y** (Co-first author), Hu Q, Li K, Chen J, Liu H, Wang W, Kuang H, Dynamic Nucleotide-Binding-Site and Leucine-Rich-Repeat-encoding Genes in the Grass Family. Plant physiol. 2012, 159(1):197-210
+
+Fei Q, Yu Y, Liu L, **Zhang Y**, Baldrich P, Dai Q, Chen X, Meyers BC. Biogenesis of a 22-nt microRNA in Phaseoleae species by precursor-programmed uridylation. PNAS. 2018, 201807403
 
 Fei Q, **Zhang Y**, Xia R, Meyers BC. Small RNAs add Zing to the Zig-Zag-Zig model of plant defenses. Mol Plant Microbe Interact. 2016, 29(3): 165-169
 
@@ -40,4 +47,4 @@ Lu C, Chen J, **Zhang Y**, Hu Q, Su W, Kuang H. Miniature inverted-repeat transp
 
 
 ### CONTACT
-E-mail:zhangy9@sustc.edu.cn
+E-mail:zhangyu07@caas.cn
