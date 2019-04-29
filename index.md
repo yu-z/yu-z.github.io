@@ -1,26 +1,26 @@
 ## ABOUT ME
 
 2018/12 ~ present
-Agricultural Genomics Institute at Shenzhen, *Associate professor*
+### Agricultural Genomics Institute at Shenzhen, *Associate professor*
 
 2016/07 ~ 2018/07
-Southern University of Science and Technology, *Postdoctoral fellow*
+### Southern University of Science and Technology, *Postdoctoral fellow*
 
 2010/09 ~ 2016/06
-Huazhong Agricultural University, *Ph.D, Olericulture*
+### Huazhong Agricultural University, *Ph.D, Olericulture*
 
 2016/01 ~ 2016/04
-Donald Danforth Plant Science Center, *Visiting student*
+### Donald Danforth Plant Science Center, *Visiting student*
 
 2014/09 ~ 2016/01
-University of Delaware, *Visiting student*
+### University of Delaware, *Visiting student*
 
 2014/04 ~ 2014/08
-Guizhou Academy of Tobacco Science, *Visiting student*
+### Guizhou Academy of Tobacco Science, *Visiting student*
 
 2006/09 ~ 2010/09
-Huazhong Agricultural University, *B.S, Aquatic Science and Technology*
-Huazhong University of Science and Technology, *B.A, English*
+### Huazhong Agricultural University, *B.S, Aquatic Science and Technology*
+### Huazhong University of Science and Technology, *B.A, English*
 
 
 ## PUBLICATIONS
