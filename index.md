@@ -2,7 +2,7 @@
 
 2018/12 ~ present  **Agricultural Genomics Institute at Shenzhen**, *Associate professor*
 
-2016/07 ~ 2018/07  **Southern University of Science and Technology**, *Postdoctoral fellow*
+2016/07 ~ 2018/07  **Southern University of Science and Technology**, *Senior research scholar*
 
 2010/09 ~ 2016/06  **Huazhong Agricultural University**, *Ph.D, Olericulture*
 
