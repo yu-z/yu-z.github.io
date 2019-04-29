@@ -13,7 +13,8 @@
 2014/04 ~ 2014/08  **Guizhou Academy of Tobacco Science**, *Visiting student*
 
 2006/09 ~ 2010/09  **Huazhong Agricultural University**, *B.S, Aquatic Science and Technology*
-  **Huazhong University of Science and Technology**, *B.A, English*
+
+**Huazhong University of Science and Technology**, *B.A, English*
 
 
 ## PUBLICATIONS
